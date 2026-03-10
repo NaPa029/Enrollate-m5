@@ -145,7 +145,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-center gap-2">
                   <Clock className="w-4 h-4" />
-                  <span>Abierto</span>
+                  <span>Abierto de todos los días excepto martes y miércoles, de 13h a 18h y de 20h a 23:30h</span>
                 </div>
               </div>
             </motion.div>
