@@ -207,7 +207,7 @@ export default function Home() {
                 <p className="flex items-center justify-center md:justify-start gap-2">
                   <Phone className="w-4 h-4" />
                   <a href="https://www.google.es/maps/place/Enrollate+Montequinto/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
-                    Ver en Google Maps
+                    +34 854644885
                   </a>
                 </p>
               </div>
@@ -219,7 +219,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-500">
-            <p>© 2025 Enrollate Montequinto. Todos los derechos reservados.</p>
+            <p>© 2026 Enróllate Montequinto. Todos los derechos reservados.</p>
           </div>
         </div>
       </footer>
